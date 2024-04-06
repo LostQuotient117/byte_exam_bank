@@ -10,6 +10,7 @@
                                                 Tauche ein und entdecke, was diese alten Schätze zu bieten haben. 
                                        Wer einen Tresorschlüssel braucht, soll uns schreiben und Passierschein A38 bereit halten.
                                                                        HELP ALWAYS WANTED
+                                                          Pattern: Jahr_Kursnummer_Namen der Dozenten
 
                                                                                                                                                              
                                                                                                                              
